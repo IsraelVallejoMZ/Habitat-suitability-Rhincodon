@@ -40,5 +40,5 @@ install.packages(c("rgbif", "dplyr", "sf", "terra", "maxnet", "ENMeval", "geodat
 ```
 
 ## How to Run
-1. Run `sdm_whaleshark.R` to preprocess data, train the model, and generate outputs.
+1. Run `Rhincodon_typus_SDM.R` to preprocess data, train the model, and generate outputs.
 2. Maps and figures will be saved in `/maps`, and the final report in `/output`.

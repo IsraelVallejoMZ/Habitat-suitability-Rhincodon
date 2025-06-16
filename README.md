@@ -32,9 +32,6 @@ Rhincodon_typus_Distribution_2050/
 ├── maps/
 │ └── distribution_maps.png
 
-bash
-Copiar
-Editar
 
 ## Requirements
 ```r
